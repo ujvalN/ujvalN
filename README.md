@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ujval
-- 👀 I’m interested in learning JavaScript in the future.
+- 👀 I’m looking forward to learning HTML, CSS, and Javascript.
 - 🌱 I’m currently learning how to code in Python.
 - 😄 Pronouns: He/Him
 
